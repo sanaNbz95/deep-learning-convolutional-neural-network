@@ -1,5 +1,5 @@
 # deep-learning-convolutional-neural-network
-FAU's deep learning Regularization and the Recurrent Layer exercise
+FAU's deep learning convolutional neural network exercise
 
 <hr></hr>
 
